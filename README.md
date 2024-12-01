@@ -10,4 +10,6 @@ These implementations are intended for learning purposes. As such, they may be l
 ## Algorithms
 The [directory](DIRECTORY.md) has the full list of applications.
 # Additional notes
-Run `mvn clean install` to build the project and run the tests
+Run `mvn clean install` to build the project and run the tests.
+
+Run `open target/site/jacoco/index.html` from within a terminal window of the IDE to see the test coverage.

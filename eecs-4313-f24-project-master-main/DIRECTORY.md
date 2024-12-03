@@ -1,0 +1,24 @@
+
+## src
+  * main
+    * java
+      * com
+        * thealgorithms
+          * maths
+            * [Area](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/Area.java)
+            * [CollatzConjecture](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/CollatzConjecture.java)
+            * [DeterminantOfMatrix](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/DeterminantOfMatrix.java)
+            * [QuadraticEquationSolver](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/QuadraticEquationSolver.java)
+            * [SimpsonIntegration](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/SimpsonIntegration.java)
+            * [VectorCrossProduct](https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/maths/VectorCrossProduct.java)
+  * test
+    * java
+      * com
+        * thealgorithms
+          * maths
+            * [AreaTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/AreaTest.java)
+            * [CollatzConjectureTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/CollatzConjectureTest.java)
+            * [DeterminantOfMatrixTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/DeterminantOfMatrixTest.java)
+            * [QuadraticEquationSolverTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/QuadraticEquationSolverTest.java)
+            * [SimpsonIntegrationTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/SimpsonIntegrationTest.java)
+            * [VectorCrossProductTest](https://github.com/TheAlgorithms/Java/blob/master/src/test/java/com/thealgorithms/maths/VectorCrossProductTest.java)
